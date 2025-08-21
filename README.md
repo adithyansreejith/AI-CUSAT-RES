@@ -1,3 +1,3 @@
 
 
-# visit this [site](https://adithyansreejith.github.io/AI-CUSAT-RES)/
+# visit this [site](https://adithyansreejith.github.io/AI-CUSAT-RES)
